@@ -146,7 +146,7 @@ python "donation manager.py"
 
 **Rahul Kulkarni**
 
-GitHub: https://github.com/your-username
+
 
 ---
 
